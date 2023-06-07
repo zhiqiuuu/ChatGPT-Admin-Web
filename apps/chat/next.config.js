@@ -11,6 +11,7 @@ const nextConfig = {
 
     return config;
   },
+  pageEctensions:[‘page.tsx’,'page.jsx','page.ts',],
 };
 
 module.exports = nextConfig;
